@@ -1,0 +1,17 @@
+{
+    "name": "cody92/coding-standards",
+    "description": "Composer project with libraries for coding standards",
+    "authors": [
+        {
+            "name": "Ionut Codreanu",
+            "email": "codydoc92@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmd/phpmd": "^2.3",
+        "pdepend/pdepend": "^2.2",
+        "squizlabs/php_codesniffer": "^2.5",
+        "sebastian/phpcpd": "^2.0"
+    }
+}
